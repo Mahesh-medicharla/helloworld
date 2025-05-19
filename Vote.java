@@ -8,7 +8,7 @@ if(age<18){
 System.out.println("Your are not elgible for voting...");
 }
 else if(age>=18){
-System.out.println("Your elgible for vote! Now you can caste your vote.");
+System.out.println("Your elgible for vote! Now you can caste your vote Safely...");
 }
 else {
 System.out.println("For more informatiom visit gov site...");
